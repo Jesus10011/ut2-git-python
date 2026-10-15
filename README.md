@@ -2,3 +2,11 @@
 
 Repositorio de prácticas de Git con los ejercicios de la UT2
 Autor: Jesús Francisco
+
+## Ejercicios
+| Fichero | Estructura de control |
+|---|---|
+| ej01_par_impar.py | if / else |
+| ej02_calificacion.py | if / elif / else |
+| ej03_tabla_multiplicar.py | for |
+| ej04_adivina.py | while + break |
