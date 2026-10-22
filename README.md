@@ -19,3 +19,7 @@ Autor: Jesús Francisco
 ## Colaboradores
 
 - Fernando Riccio Martinez
+
+## Instalacion
+
+Ver [CONTRIBUTING.md](CONTRIBUTING.md)
