@@ -15,3 +15,7 @@ Autor: Jesús Francisco
 
 | ej07_fizzbuzz.py | for + if/elif |
 | ej08_contrasena.py | while + else |
+
+## Colaboradores
+
+- Fernando Riccio Martinez
