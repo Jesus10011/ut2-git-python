@@ -1,7 +1,7 @@
 # Ejercicio 1: par o impar (if / else)
 # Autor: Compañero
 
-trys:
+try:
 
     numero = int(input("Introduce un número entero: "))
 
